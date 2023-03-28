@@ -6,5 +6,9 @@ Pokud je možno prohlásit, že informační zdroj byl přínosný pro studenta 
 Dva notebooky obsahují části kódu, který umožňuje srovnat ISBN, ISSN,DOI které má knihovna evidované v knihovním systému Aleph či v rámci discovery služby s identifikátory, které použil autor. 
 
 Notebooky obsahují tyto kódy:
+
+Extrakt_ISBN_ISSN_Aleph.ipynb
 - dolování ISBN a ISSN z BIB záznamu v exportu z Alephu - návod na export -  https://knowledge.exlibrisgroup.com/Aleph/Knowledge_Articles/How_to_export_the_BIB_record_from_Aleph
-- srovnání přes ISBN, ISSN, DOI - Aleph + discovery MU / Citace.com
+
+Srovnaní fondu knihovny a obsahu účtu Citace.com.ipynb
+- srovnání přes ISBN, ISSN - Aleph + discovery MU|Citace.com
